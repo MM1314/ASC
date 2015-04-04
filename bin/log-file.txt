@@ -1,0 +1,28 @@
+FILE HEADER
+2015-04-04 21:37:41,903 [10] INFO  ASC-Log (JINPENG-PC) [(null)] - 程序启动
+FILE HEADER
+2015-04-04 21:38:31,311 [10] INFO  ASC-Log (JINPENG-PC) [(null)] - 程序启动
+2015-04-04 21:39:50,014 [10] INFO  ASC-Log (JINPENG-PC) [(null)] - 程序启动
+FILE HEADER
+2015-04-04 21:45:25,950 [9] INFO  ASC-Log (JINPENG-PC) [(null)] - 程序启动
+FILE FOOTER
+2015-04-04 21:56:47,768 [9] INFO  ASC-Log (JinPeng-PC) [(null)] - 程序启动
+2015-04-04 21:58:11,335 [10] INFO  ASC-Log (JinPeng-PC) [(null)] - 程序启动
+2015-04-04 22:00:12,297 [9] INFO  ASC-Log (JinPeng-PC) [(null)] - 程序启动
+2015-04-04 22:00:16,420 [9] INFO  ASC-Log1 (JinPeng-PC) [(null)] - new log
+FILE HEADER
+2015-04-04 22:05:36,239 [9] INFO  ASC.UI.Main.Program (JinPeng-PC) [(null)] - 程序启动
+2015-04-04 22:05:36,937 [9] INFO  ASC-Log (JinPeng-PC) [(null)] - new log
+FILE FOOTER
+FILE HEADER
+2015-04-04 22:08:40,150 [9] INFO  ASC.Common.Log (JinPeng-PC) [(null)] - 程序启动
+2015-04-04 22:08:40,177 [9] INFO  ASC-Log (JinPeng-PC) [(null)] - new log
+FILE FOOTER
+FILE HEADER
+2015-04-04 22:10:54,787 [9] INFO  ASC.Common.Log (JinPeng-PC) [(null)] - 程序启动
+2015-04-04 22:10:54,816 [9] INFO  ASC-Log (JinPeng-PC) [(null)] - new log
+FILE FOOTER
+FILE HEADER
+2015-04-04 22:35:34,910 [9] INFO  ASC.UI.Main.Program (JinPeng-PC) [(null)] - 程序启动
+2015-04-04 22:35:34,941 [9] INFO  ASC-Log (JinPeng-PC) [(null)] - new log
+2015-04-04 22:35:35,090 [9] DEBUG ASC.UI.Main.FrmMain (JinPeng-PC) [(null)] - Init

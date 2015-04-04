@@ -44,6 +44,7 @@
             this.tabPage4 = new System.Windows.Forms.TabPage();
             this.uC_AutoStressControl1 = new ASC.UI.Main.UC_AutoStressControl();
             this.tabPage5 = new System.Windows.Forms.TabPage();
+            this.uC_SystemState1 = new ASC.UI.Main.UC_SystemState();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.toolStripButton6 = new System.Windows.Forms.ToolStripButton();
             this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
@@ -53,7 +54,6 @@
             this.toolStripButton4 = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
-            this.uC_SystemState1 = new ASC.UI.Main.UC_SystemState();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -128,7 +128,7 @@
             this.tabPage1.Location = new System.Drawing.Point(104, 4);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(781, 388);
+            this.tabPage1.Size = new System.Drawing.Size(782, 400);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "项目信息";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -147,7 +147,7 @@
             this.tabPage2.Location = new System.Drawing.Point(104, 4);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(781, 388);
+            this.tabPage2.Size = new System.Drawing.Size(782, 400);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "系统标定";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -166,7 +166,7 @@
             this.tabPage3.Location = new System.Drawing.Point(104, 4);
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage3.Size = new System.Drawing.Size(781, 388);
+            this.tabPage3.Size = new System.Drawing.Size(782, 400);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "梁型编辑";
             this.tabPage3.UseVisualStyleBackColor = true;
@@ -185,7 +185,7 @@
             this.tabPage4.Location = new System.Drawing.Point(104, 4);
             this.tabPage4.Name = "tabPage4";
             this.tabPage4.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage4.Size = new System.Drawing.Size(781, 388);
+            this.tabPage4.Size = new System.Drawing.Size(782, 400);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "张拉控制";
             this.tabPage4.UseVisualStyleBackColor = true;
@@ -208,6 +208,13 @@
             this.tabPage5.TabIndex = 4;
             this.tabPage5.Text = "系统状态";
             this.tabPage5.UseVisualStyleBackColor = true;
+            // 
+            // uC_SystemState1
+            // 
+            this.uC_SystemState1.Location = new System.Drawing.Point(1, 1);
+            this.uC_SystemState1.Name = "uC_SystemState1";
+            this.uC_SystemState1.Size = new System.Drawing.Size(780, 390);
+            this.uC_SystemState1.TabIndex = 0;
             // 
             // toolStrip1
             // 
@@ -288,13 +295,6 @@
             this.toolStripButton1.Text = "通信设置";
             this.toolStripButton1.ToolTipText = "系统参数";
             // 
-            // uC_SystemState1
-            // 
-            this.uC_SystemState1.Location = new System.Drawing.Point(1, 1);
-            this.uC_SystemState1.Name = "uC_SystemState1";
-            this.uC_SystemState1.Size = new System.Drawing.Size(780, 390);
-            this.uC_SystemState1.TabIndex = 0;
-            // 
             // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -304,6 +304,7 @@
             this.Controls.Add(this.tabControl1);
             this.Name = "FrmMain";
             this.Text = "全自动预应力拉张控制系统    XX公司";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage2.ResumeLayout(false);

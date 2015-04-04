@@ -11,10 +11,12 @@ namespace ASC.UI.Main
 {
     public partial class FrmMain : Form
     {
+        private static readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+
         public FrmMain()
         {
             InitializeComponent();
-
+            log.Debug("Init");
             this.tabControl1.DrawMode = TabDrawMode.OwnerDrawFixed;
             this.tabControl1.DrawItem += new DrawItemEventHandler(tabControl1_DrawItem);
         }

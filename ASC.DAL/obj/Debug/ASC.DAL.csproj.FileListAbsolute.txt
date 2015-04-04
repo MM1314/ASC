@@ -1,0 +1,8 @@
+E:\张拉控制程序\ASC\ASC.UI.Main\ASC.DAL\bin\Debug\ASC.DAL.dll
+E:\张拉控制程序\ASC\ASC.UI.Main\ASC.DAL\bin\Debug\ASC.DAL.pdb
+E:\张拉控制程序\ASC\ASC.UI.Main\ASC.DAL\obj\Debug\ASC.DAL.dll
+E:\张拉控制程序\ASC\ASC.UI.Main\ASC.DAL\obj\Debug\ASC.DAL.pdb
+E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\ASC.DAL.dll
+E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\ASC.DAL.pdb
+E:\张拉控制程序\ASC\ASC.DAL\obj\Debug\ASC.DAL.dll
+E:\张拉控制程序\ASC\ASC.DAL\obj\Debug\ASC.DAL.pdb

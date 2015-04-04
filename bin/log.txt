@@ -1,0 +1,5 @@
+FILE HEADER
+2015-04-04 22:37:36,220 [10] INFO  ASC.UI.Main.Program (JinPeng-PC) [(null)] - ≥Ã–Ú∆Ù∂Ø
+2015-04-04 22:37:36,253 [10] INFO  ASC-Log (JinPeng-PC) [(null)] - new log
+2015-04-04 22:37:36,406 [10] DEBUG ASC.UI.Main.FrmMain (JinPeng-PC) [(null)] - Init
+FILE FOOTER
