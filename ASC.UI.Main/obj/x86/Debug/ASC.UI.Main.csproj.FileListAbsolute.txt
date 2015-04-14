@@ -48,3 +48,4 @@ E:\张拉控制程序\ASC\bin\ASC.UI.Main.exe.config
 E:\张拉控制程序\ASC\bin\ASC.UI.Main.exe
 E:\张拉控制程序\ASC\bin\ASC.UI.Main.pdb
 E:\张拉控制程序\ASC\bin\log4net.config
+E:\张拉控制程序\ASC\ASC.UI.Main\obj\x86\Debug\ASC.UI.Main.FrmSystemConfig.resources

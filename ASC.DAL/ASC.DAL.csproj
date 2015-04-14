@@ -31,8 +31,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\lib\EntityFramework.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -41,7 +45,24 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="DAO.cs" />
+    <Compile Include="DaoBase.cs" />
+    <Compile Include="DbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ASC.Common\ASC.Common.csproj">
+      <Project>{E8918D58-554F-47DB-A14F-0538D3AE7C27}</Project>
+      <Name>ASC.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ASC.IDAL\ASC.IDAL.csproj">
+      <Project>{C0051D64-E5CB-4833-A441-1FDB68B02CA1}</Project>
+      <Name>ASC.IDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ASC.Models\ASC.Models.csproj">
+      <Project>{97161FC2-D9B0-44DF-A203-C710CA5F60F9}</Project>
+      <Name>ASC.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

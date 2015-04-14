@@ -10,3 +10,5 @@ E:\张拉控制程序\ASC\ASC.Common\bin\Debug\log4net.dll
 E:\张拉控制程序\ASC\ASC.Common\bin\Debug\log4net.pdb
 E:\张拉控制程序\ASC\ASC.Common\bin\Debug\log4net.xml
 E:\张拉控制程序\ASC\ASC.Common\obj\Debug\ASC.Common.csprojResolveAssemblyReference.cache
+E:\张拉控制程序\ASC\ASC.Common\bin\Debug\Modbus.dll
+E:\张拉控制程序\ASC\ASC.Common\bin\Debug\FtdAdapter.dll

@@ -6,3 +6,16 @@ E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\ASC.DAL.dll
 E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\ASC.DAL.pdb
 E:\张拉控制程序\ASC\ASC.DAL\obj\Debug\ASC.DAL.dll
 E:\张拉控制程序\ASC\ASC.DAL\obj\Debug\ASC.DAL.pdb
+E:\张拉控制程序\ASC\ASC.DAL\obj\Debug\ASC.DAL.csprojResolveAssemblyReference.cache
+E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\ASC.Common.dll
+E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\ASC.Models.dll
+E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\EasyEF.IDAL.dll
+E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\EntityFramework.dll
+E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\Modbus.dll
+E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\log4net.dll
+E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\FtdAdapter.dll
+E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\ASC.Common.pdb
+E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\EasyEF.IDAL.pdb
+E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\ASC.Models.pdb
+E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\log4net.pdb
+E:\张拉控制程序\ASC\ASC.DAL\bin\Debug\log4net.xml

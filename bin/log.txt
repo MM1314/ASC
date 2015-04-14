@@ -3,3 +3,12 @@ FILE HEADER
 2015-04-04 22:37:36,253 [10] INFO  ASC-Log (JinPeng-PC) [(null)] - new log
 2015-04-04 22:37:36,406 [10] DEBUG ASC.UI.Main.FrmMain (JinPeng-PC) [(null)] - Init
 FILE FOOTER
+FILE HEADER
+2015-04-06 21:24:10,202 [9] INFO  ASC.UI.Main.Program (JinPeng-PC) [(null)] - 程序启动
+2015-04-06 21:24:10,249 [9] INFO  ASC-Log (JinPeng-PC) [(null)] - new log
+2015-04-06 21:24:10,399 [9] DEBUG ASC.UI.Main.FrmMain (JinPeng-PC) [(null)] - Init
+FILE FOOTER
+FILE HEADER
+2015-04-14 22:20:31,126 [10] INFO  ASC.UI.Main.Program (JinPeng-PC) [(null)] - 程序启动
+2015-04-14 22:20:31,184 [10] INFO  ASC-Log (JinPeng-PC) [(null)] - new log
+2015-04-14 22:20:31,334 [10] DEBUG ASC.UI.Main.FrmMain (JinPeng-PC) [(null)] - Init

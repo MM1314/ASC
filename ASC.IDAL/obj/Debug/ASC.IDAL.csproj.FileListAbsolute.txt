@@ -1,0 +1,12 @@
+E:\张拉控制程序\ASC\ASC.IDAL\bin\Debug\EasyEF.IDAL.dll
+E:\张拉控制程序\ASC\ASC.IDAL\bin\Debug\EasyEF.IDAL.pdb
+E:\张拉控制程序\ASC\ASC.IDAL\bin\Debug\ASC.Common.dll
+E:\张拉控制程序\ASC\ASC.IDAL\bin\Debug\Modbus.dll
+E:\张拉控制程序\ASC\ASC.IDAL\bin\Debug\log4net.dll
+E:\张拉控制程序\ASC\ASC.IDAL\bin\Debug\FtdAdapter.dll
+E:\张拉控制程序\ASC\ASC.IDAL\bin\Debug\ASC.Common.pdb
+E:\张拉控制程序\ASC\ASC.IDAL\bin\Debug\log4net.pdb
+E:\张拉控制程序\ASC\ASC.IDAL\bin\Debug\log4net.xml
+E:\张拉控制程序\ASC\ASC.IDAL\obj\Debug\ASC.IDAL.csprojResolveAssemblyReference.cache
+E:\张拉控制程序\ASC\ASC.IDAL\obj\Debug\EasyEF.IDAL.dll
+E:\张拉控制程序\ASC\ASC.IDAL\obj\Debug\EasyEF.IDAL.pdb
